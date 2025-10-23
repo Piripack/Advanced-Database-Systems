@@ -1,4 +1,3 @@
-
 # 🗄️ Advanced Database Systems – Distinction Level
 
 🎓 **Module:** QHO541 – Advanced Database Systems
@@ -8,44 +7,45 @@
 
 ---
 
-## 📝 Overall Feedback Summary
+## 📝 Overall Summary
 
-This project presents a **warehouse management database system** built using **SQLite** and **Python Tkinter**, integrating advanced database concepts such as **triggers**, **views**, **functions**, **XML handling**, **BLOB storage**, and **multi-threading**.
-The system includes a secure login mechanism with SHA-256 password hashing, employee management, order processing, and automated stock control. It demonstrates a balance of functionality, security, and innovation through effective database design and GUI implementation.
+This project showcases the design and implementation of a **warehouse management database system** built using **SQLite** and **Python Tkinter**. The system automates warehouse operations through triggers, views, and SQL functions, with secure login, hashed passwords, and user management. It integrates **XML data export**, **BLOB image storage**, and **multi-threading** for efficient performance.
+
+The project demonstrates strong understanding of relational database design (3NF), system security, and process automation, earning a **Distinction** for originality, technical depth, and clear documentation.
 
 ---
 
 ## ✅ What You Did Well
 
-* Designed and normalised a well-structured database schema (3NF) with clear ERD and referential integrity.
-* Developed a robust **SQLite–Python integration** with a graphical interface for data input and reporting.
-* Implemented **triggers**, **views**, and **functions** to automate warehouse operations.
-* Incorporated **BLOB image storage** and **XML export** for flexible data management.
-* Integrated **multi-threading** for faster order processing and improved system efficiency.
-* Delivered an **innovative, secure, and scalable** solution with comprehensive documentation and testing.
+* Designed a normalised and efficient relational schema with full ERD and referential integrity.
+* Integrated **SQLite** and **Python GUI (Tkinter)** for real-time data interaction.
+* Implemented **triggers**, **views**, and **SQL functions** to automate business processes.
+* Added **XML** for external data exchange and **BLOB** for image storage.
+* Applied **multi-threading** to improve order processing speed and system scalability.
+* Delivered a **secure, innovative, and fully functional system** with professional documentation.
 
 ---
 
 ## 📎 Attached
 
-📄 *AR_Advanced_Database_Systems_Report.pdf*
+📄 [AR Advanced Database Systems (QHO541).pdf](https://github.com/Piripack/Advanced-Database-Systems/blob/main/AR%20Advanced%20Database%20Systems%20%28QHO541%29.pdf)
 
 ---
 
 ## 🛠️ Tools Used
 
-* **SQLite** – Database management and relational design
-* **Python (Tkinter)** – Graphical user interface for data operations
-* **XML** – Data export and integration
+* **SQLite** – Relational database and referential integrity
+* **Python (Tkinter)** – Graphical user interface and database control
+* **XML** – Data export and interoperability
 * **BLOB** – Image storage and retrieval
-* **Threading** – Parallel order processing
+* **Threading** – Parallel order insertion and performance optimisation
 
 ---
 
 ## 💬 Note
 
-This project was submitted as part of my **second-year Computer Science coursework** and achieved a **Distinction** for demonstrating originality, creativity, and technical excellence in advanced database design and development.
+Submitted as part of my **second-year Computer Science coursework**, this project received a **Distinction** for demonstrating strong technical ability, originality, and professional-level system design.
 
 ---
 
-Would you like me to write the short GitHub **repository description line** (the one that appears under the title) too?
+Would you like me to write the one-line **repository description** (the short line under the title on GitHub, e.g., *“SQLite–Python warehouse management system with GUI, XML, and BLOB integration”*)?
